@@ -3,7 +3,7 @@ This is the huffman coding :
 	the most common source symbols using shorter strings of bits than are used for less common source symbols. 
 	http://en.wikipedia.org/wiki/Huffman_coding
 
-This was my first project in my first year of engineering school.
+This was my first project in my first year of engineering school (2010).
 	The langage was imposed : java
 	We must write our own structures : the tree and the list
 	We must have an IHM
