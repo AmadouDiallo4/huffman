@@ -15,8 +15,8 @@ Moreover I used only French for this project.
 
 ## Use
 	
-```
+`
 javac Ihm.java    
-java Ihm
+java Ihm`
 
 Put the file name to compress in the text box without any extension.
