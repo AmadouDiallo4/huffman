@@ -14,9 +14,8 @@ This was my first project in my first year of engineering school (2010).
 Moreover I used only French for this project.
 
 ## Use
-	
-`
-javac Ihm.java    
-java Ihm`
+
+    javac Ihm.java    
+    java Ihm
 
 Put the file name to compress in the text box without any extension.
