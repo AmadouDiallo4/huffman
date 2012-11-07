@@ -19,3 +19,9 @@ Moreover I used only French for this project.
     java Ihm
 
 Put the file name to compress in the text box without any extension.
+
+## Notes
+
+When I realized this project I don't know git and github. 
+Therefore I have just one big commit for all the source code.
+
