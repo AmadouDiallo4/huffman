@@ -6,6 +6,7 @@ Huffman coding uses a specific method for choosing the representation for each s
 ## First project, rules from school
 
 This was my first project in my first year of engineering school (2010).
+
 1. The language was imposed : java
 2. We must write our own structures : the tree and the list
 3. We must have an IHM
@@ -14,7 +15,8 @@ Moreover I used only French for this project.
 
 ## Use
 	
-	javac Ihm.java
-	java Ihm
+```java
+javac Ihm.java    
+java Ihm```
 
 Put the file name to compress in the text box without any extension.
